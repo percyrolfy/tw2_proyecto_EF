@@ -33,8 +33,8 @@ Permite registro de usuarios, autenticación, gestión de tareas y soporte multi
 
 ## 1 Clonar el repositorio
 
-git clone https://github.com/percyrolfy/tw2-proyecto-EF.git  
-cd tw2-proyecto-EF  
+git clone https://github.com/percyrolfy/tw2_proyecto_EF.git  
+cd tw2_proyecto_EF  
 
 ---
 
